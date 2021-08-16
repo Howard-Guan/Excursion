@@ -1,11 +1,33 @@
 body {
-background-color: #000000;
+background-color:#000000;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header-topic{
-color: #ffffff;
+color:#ffffff;
 font-weight: normal;
 font-size: 50px;
+}
+
+.link {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.section-topic {
+    font-size: 42px;
+    color:#ffffff;
+    font-weight: 300;
+}
+
+.section-explaination {
+    font-size: 21px;
+    color:gray;
+}
+
+.logo {
+    text-align: right;
+    color:gray;
+    font-size: 21px;
 }
